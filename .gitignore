@@ -1,3 +1,6 @@
+# Variables privadas
 .env
+
+# Archivos generados por el proyecto. 
 procesos_alertas.csv
 procesos_todos.csv
